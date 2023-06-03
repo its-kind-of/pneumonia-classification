@@ -1,6 +1,6 @@
 # Pneumonia Classification
 
-This is a Python script for classifying chest X-ray images to detect pneumonia using Torch Lightning. It is built using Streamlit and Keras.
+This is a Python script for classifying chest X-ray images to detect pneumonia using trained Deep Learning model. It is built using Streamlit and Keras.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Copy code
 
 1. Run the script by executing the following command:
 ```
-streamlit run main.py
+streamlit run app.py
 ```
 
 ## Usage
